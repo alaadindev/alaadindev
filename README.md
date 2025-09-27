@@ -9,7 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alaadindev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alaadindev/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alaadindev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a>
+<a href="https://alaadindev.itch.io/" target="_blank"> <img align="center" src="https://static.itch.io/images/app-icon.svg" height="30" width="40" alt="itch"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
