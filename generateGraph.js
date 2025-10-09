@@ -5,7 +5,7 @@ const path = require("path");
 const git = simpleGit();
 
 // CONFIG
-const AUTHOR_NAME = "Your Name"; // Replace with your git author name
+const AUTHOR_NAME = "alaadindev"; // Replace with your git author name
 const OUTPUT_FILE = path.join(__dirname, "graph.svg");
 const DAYS = 365;  // last year
 const SQUARE_SIZE = 12;
