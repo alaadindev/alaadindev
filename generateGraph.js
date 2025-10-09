@@ -39,9 +39,9 @@ const PADDING = 2;
         const week = Math.floor(i / 7);
         const weekday = i % 7;
         let color = "#ebedf0";
-        if (d.count > 0 && d.count < 3) color = "#9be9a8";
-        else if (d.count >= 3 && d.count < 6) color = "#40c463";
-        else if (d.count >= 6) color = "#30a14e";
+        if (d.count > 0 && d.count < 1) color = "#9be9a8";
+        else if (d.count >= 2 && d.count < 3) color = "#40c463";
+        else if (d.count >= 4) color = "#30a14e";
 
         const x = week * (SQUARE_SIZE + PADDING);
         const y = weekday * (SQUARE_SIZE + PADDING);
