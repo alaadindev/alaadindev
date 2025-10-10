@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm alaa din</h1>
-<h3 align="center">A passionate full stack developer from Lebanon</h3>
+<h3 align="center">A full stack developer from Lebanon</h3>
 
 - 🌱 I’m currently learning **Full Stack Development at SE factory**
 
 - 📫 How to reach me **alaadindev@gmail.com**
 
-- ⚡ Fun fact **My first time using vim i couldn't exit and gave up... so i built my own VM, OS, complier, terminal, editor and browser inside Vim. still working on the "exit" part will keep you updated when i figure it out**
+- ⚡ My motto **Don’t box yourself skill-wise within your main field. If you do, you’ll stop trying to reach those who are league above you before even testing your strength to climb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
